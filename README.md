@@ -1,3 +1,3 @@
 # test1
 
-:tree:
+:orange: :apple: :pear:
