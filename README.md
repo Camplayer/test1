@@ -1,3 +1,3 @@
 # test1
 
-:orange: :apple: :pear:
+ :apple: :pear:
