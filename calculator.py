@@ -16,4 +16,6 @@ def addTwoNumbers(a, b):
 
 # 2nd commit after creating PR
 
-# 4th commit after PR, but before this commit the PR is already merged.
+# 4th commit after PR, but before this commit the PR is already merged
+
+# test: commit then PR, but the upstream is changed before merging the PR (but no conflicts).
